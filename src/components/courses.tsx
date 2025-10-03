@@ -3,7 +3,7 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent } from "./ui/
 
 export const Courses = () =>{
     return (
-        <section id="courses" className="py-20 border-t border-white/10">
+        <section id="courses" className="py-20 border-t border-accent-foreground">
         <div className="container mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold mb-4">Choose Your Stream</h2>
